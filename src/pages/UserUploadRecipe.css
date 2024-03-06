@@ -1,0 +1,32 @@
+.details{
+    display:flex;
+}
+
+.write{
+    height: 100px;
+    width: 300px;
+}
+
+.num{
+    height: 50px;
+    width: 100px;
+}
+
+.title{
+    width: 300px;
+}
+
+.upload{
+    margin-top: 10px;
+    width: 300px;
+    color:white;
+    background-color: black;
+}
+
+.recipeDetails{
+    border:solid;
+    border-radius: 20px;
+    width: 400px;
+    height: auto;
+    
+}
